@@ -17,7 +17,7 @@ Ola eu sou Adney Sousa
   <a href="https://www.linkedin.com/in/adney-sousa-486aba208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
     
-    ![Snake animation](https://github.com/AdneyySousa/AdneyySousa/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/adneyysousa/adneyysousa/blob/output/github-contribution-grid-snake.svg)
   </div>
   
   
