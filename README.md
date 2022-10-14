@@ -3,7 +3,7 @@ Ola eu sou Adney Sousa
 - 🔭 Procurando uma oportunidade na area da programação
 - 🌱 Estudando Python
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/AdneyySousa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adneyysousa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adneyysousa&layout=compact&langs_count=7&theme=dracula"/>
 </div>
